@@ -1,3 +1,12 @@
+
+# TP IASC
+
+Refactor de lo que hicimos en https://github.com/duneding/iasc-tp-kvstore/branches
+
+## ToDo 
+
+-------------------------------------------------------------------
+
 # TP IASC - KVStore Distribuido OTP
 
 La aplicación en un implementa actores distribuidos: cluster de orquestadores y cluster de data nodes
